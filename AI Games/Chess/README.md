@@ -1,7 +1,5 @@
 # Human vs AI Chess Game (Python Tkinter)
 
-# Human vs AI Chess Game (Python Tkinter)
-
 A desktop-based chess game where you play as White against an AI opponent that uses the Minimax algorithm with Alpha-Beta pruning. The AI difficulty can be set by changing the search depth.
 
 ## How to Run
@@ -18,7 +16,7 @@ A desktop-based chess game where you play as White against an AI opponent that u
 
 ### Method 2: IDE
 
-1. Open human_vs_ai_chess.py in your Python IDE (VS Code, PyCharm, etc.)
+1. Open chess.py in your Python IDE (VS Code, PyCharm, etc.)
 2. Run the script (F5 / Run button)
 3. The game window will appear, and you play as White
 
