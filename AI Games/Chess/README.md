@@ -12,7 +12,7 @@ A desktop-based chess game where you play as White against an AI opponent that u
 3. Download or clone the project files
 4. Navigate to the project folder
 5. Run the game:
-   python human_vs_ai_chess.py
+   python chess-ai.py
 
 ### Method 2: IDE
 
