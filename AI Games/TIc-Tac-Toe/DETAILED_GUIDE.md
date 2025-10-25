@@ -242,6 +242,3 @@ def player_move(i):
 
 This guide provides **all details needed** to understand, run, and extend Tic Tac Toe with AI.
 By following it, anyone with Python experience can learn **AI algorithms, recursion, game state management, and GUI programming** in a practical project.
-
-```
-
